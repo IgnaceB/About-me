@@ -19,12 +19,12 @@
 > ### &nbsp;&nbsp;&nbsp; All about Teamwork
 |Kindness|Responsability|Efficiency|
 | ------ | ------ | ------ |
-![TEAMWORK](https://media.giphy.com/media/ibdVR5zCOjGxy2hjcj/giphy.gif)
+|![TEAMWORK](https://media.giphy.com/media/ibdVR5zCOjGxy2hjcj/giphy.gif)| |![TEAMWORK](https://media.giphy.com/media/ibdVR5zCOjGxy2hjcj/giphy.gif)|
 
 ---
 
 > `Would appreciate if this could finaly work with my life`
-![Tux, the Linux mascot](https://media.tenor.com/eqqPlamdM1gAAAAC/hello-it-have-you-tried.gif)
+![Tux, the Linux mascot](https://media.tenor.com/eqqPlamdM1gAAAAC/hello-it-have-you-tried.gif) 
 
 
 
